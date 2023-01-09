@@ -1,3 +1,3 @@
 # Bikinux-OS
 
-Just your regular everyday old motherOS
+Just your regular everyday old motherOS.
